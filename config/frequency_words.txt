@@ -75,6 +75,10 @@ ai
 
 科技
 
+深度学习
+
+Transfomer
+LSTM
 
 
 月球
